@@ -14,7 +14,7 @@ void save_results(int L, int num_temperatures, const double *results_for_size, c
 
 int main(int argc, const char * argv[]) {
     // insert code here...
-    printf("Hello, World!\n");
+    printf("Hello, World!!!\n");
     
     // Set random seed
        srand((unsigned int)time(NULL));
@@ -24,7 +24,7 @@ int main(int argc, const char * argv[]) {
        int num_sizes = sizeof(lattice_sizes) / sizeof(lattice_sizes[0]);
       
        // Este print no es parte del códigp oroginal
-       printf("Número de lados = %d\n" , num_sizes);
+       printf("Número de ladosssss = %d\n" , num_sizes);
        
        double T_min = 2.0;
        double T_max = 2.5;
