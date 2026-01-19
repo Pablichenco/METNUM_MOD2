@@ -22,9 +22,121 @@
 		129423572EF24924007D6531 /* mod2 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = mod2; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		1204A4C32F1E509200FA8636 /* Exceptions for "mod2" folder in "mod2" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				".venv/lib/python3.14/site-packages/numpy/_core/include/numpy/__multiarray_api.c",
+				".venv/lib/python3.14/site-packages/numpy/_core/include/numpy/__ufunc_api.c",
+				".venv/lib/python3.14/site-packages/numpy/_core/lib/libnpymath.a",
+				".venv/lib/python3.14/site-packages/numpy/_core/tests/data/generate_umath_validation_data.cpp",
+				".venv/lib/python3.14/site-packages/numpy/_core/tests/examples/limited_api/limited_api_latest.c",
+				".venv/lib/python3.14/site-packages/numpy/_core/tests/examples/limited_api/limited_api1.c",
+				".venv/lib/python3.14/site-packages/numpy/f2py/src/fortranobject.c",
+				".venv/lib/python3.14/site-packages/numpy/f2py/tests/src/abstract_interface/foo.f90",
+				".venv/lib/python3.14/site-packages/numpy/f2py/tests/src/abstract_interface/gh18403_mod.f90",
+				".venv/lib/python3.14/site-packages/numpy/f2py/tests/src/array_from_pyobj/wrapmodule.c",
+				".venv/lib/python3.14/site-packages/numpy/f2py/tests/src/assumed_shape/foo_free.f90",
+				".venv/lib/python3.14/site-packages/numpy/f2py/tests/src/assumed_shape/foo_mod.f90",
+				".venv/lib/python3.14/site-packages/numpy/f2py/tests/src/assumed_shape/foo_use.f90",
+				".venv/lib/python3.14/site-packages/numpy/f2py/tests/src/assumed_shape/precision.f90",
+				".venv/lib/python3.14/site-packages/numpy/f2py/tests/src/block_docstring/foo.f",
+				".venv/lib/python3.14/site-packages/numpy/f2py/tests/src/callback/foo.f",
+				".venv/lib/python3.14/site-packages/numpy/f2py/tests/src/callback/gh17797.f90",
+				".venv/lib/python3.14/site-packages/numpy/f2py/tests/src/callback/gh18335.f90",
+				".venv/lib/python3.14/site-packages/numpy/f2py/tests/src/callback/gh25211.f",
+				".venv/lib/python3.14/site-packages/numpy/f2py/tests/src/callback/gh26681.f90",
+				".venv/lib/python3.14/site-packages/numpy/f2py/tests/src/cli/hi77.f",
+				".venv/lib/python3.14/site-packages/numpy/f2py/tests/src/cli/hiworld.f90",
+				".venv/lib/python3.14/site-packages/numpy/f2py/tests/src/common/block.f",
+				".venv/lib/python3.14/site-packages/numpy/f2py/tests/src/common/gh19161.f90",
+				".venv/lib/python3.14/site-packages/numpy/f2py/tests/src/crackfortran/accesstype.f90",
+				".venv/lib/python3.14/site-packages/numpy/f2py/tests/src/crackfortran/common_with_division.f",
+				".venv/lib/python3.14/site-packages/numpy/f2py/tests/src/crackfortran/data_common.f",
+				".venv/lib/python3.14/site-packages/numpy/f2py/tests/src/crackfortran/data_multiplier.f",
+				".venv/lib/python3.14/site-packages/numpy/f2py/tests/src/crackfortran/data_stmts.f90",
+				".venv/lib/python3.14/site-packages/numpy/f2py/tests/src/crackfortran/data_with_comments.f",
+				".venv/lib/python3.14/site-packages/numpy/f2py/tests/src/crackfortran/foo_deps.f90",
+				".venv/lib/python3.14/site-packages/numpy/f2py/tests/src/crackfortran/gh2848.f90",
+				".venv/lib/python3.14/site-packages/numpy/f2py/tests/src/crackfortran/gh15035.f",
+				".venv/lib/python3.14/site-packages/numpy/f2py/tests/src/crackfortran/gh17859.f",
+				".venv/lib/python3.14/site-packages/numpy/f2py/tests/src/crackfortran/gh23533.f",
+				".venv/lib/python3.14/site-packages/numpy/f2py/tests/src/crackfortran/gh23598.f90",
+				".venv/lib/python3.14/site-packages/numpy/f2py/tests/src/crackfortran/gh23598Warn.f90",
+				".venv/lib/python3.14/site-packages/numpy/f2py/tests/src/crackfortran/gh23879.f90",
+				".venv/lib/python3.14/site-packages/numpy/f2py/tests/src/crackfortran/gh27697.f90",
+				".venv/lib/python3.14/site-packages/numpy/f2py/tests/src/crackfortran/operators.f90",
+				".venv/lib/python3.14/site-packages/numpy/f2py/tests/src/crackfortran/privatemod.f90",
+				".venv/lib/python3.14/site-packages/numpy/f2py/tests/src/crackfortran/publicmod.f90",
+				".venv/lib/python3.14/site-packages/numpy/f2py/tests/src/crackfortran/pubprivmod.f90",
+				".venv/lib/python3.14/site-packages/numpy/f2py/tests/src/crackfortran/unicode_comment.f90",
+				".venv/lib/python3.14/site-packages/numpy/f2py/tests/src/f2cmap/isoFortranEnvMap.f90",
+				".venv/lib/python3.14/site-packages/numpy/f2py/tests/src/isocintrin/isoCtests.f90",
+				".venv/lib/python3.14/site-packages/numpy/f2py/tests/src/kind/foo.f90",
+				".venv/lib/python3.14/site-packages/numpy/f2py/tests/src/mixed/foo_fixed.f90",
+				".venv/lib/python3.14/site-packages/numpy/f2py/tests/src/mixed/foo_free.f90",
+				".venv/lib/python3.14/site-packages/numpy/f2py/tests/src/mixed/foo.f",
+				".venv/lib/python3.14/site-packages/numpy/f2py/tests/src/modules/gh25337/data.f90",
+				".venv/lib/python3.14/site-packages/numpy/f2py/tests/src/modules/gh25337/use_data.f90",
+				".venv/lib/python3.14/site-packages/numpy/f2py/tests/src/modules/gh26920/two_mods_with_no_public_entities.f90",
+				".venv/lib/python3.14/site-packages/numpy/f2py/tests/src/modules/gh26920/two_mods_with_one_public_routine.f90",
+				".venv/lib/python3.14/site-packages/numpy/f2py/tests/src/modules/module_data_docstring.f90",
+				".venv/lib/python3.14/site-packages/numpy/f2py/tests/src/modules/use_modules.f90",
+				".venv/lib/python3.14/site-packages/numpy/f2py/tests/src/negative_bounds/issue_20853.f90",
+				".venv/lib/python3.14/site-packages/numpy/f2py/tests/src/parameter/constant_array.f90",
+				".venv/lib/python3.14/site-packages/numpy/f2py/tests/src/parameter/constant_both.f90",
+				".venv/lib/python3.14/site-packages/numpy/f2py/tests/src/parameter/constant_compound.f90",
+				".venv/lib/python3.14/site-packages/numpy/f2py/tests/src/parameter/constant_integer.f90",
+				".venv/lib/python3.14/site-packages/numpy/f2py/tests/src/parameter/constant_non_compound.f90",
+				".venv/lib/python3.14/site-packages/numpy/f2py/tests/src/parameter/constant_real.f90",
+				".venv/lib/python3.14/site-packages/numpy/f2py/tests/src/quoted_character/foo.f",
+				".venv/lib/python3.14/site-packages/numpy/f2py/tests/src/regression/AB.inc",
+				".venv/lib/python3.14/site-packages/numpy/f2py/tests/src/regression/assignOnlyModule.f90",
+				".venv/lib/python3.14/site-packages/numpy/f2py/tests/src/regression/datonly.f90",
+				".venv/lib/python3.14/site-packages/numpy/f2py/tests/src/regression/f77comments.f",
+				".venv/lib/python3.14/site-packages/numpy/f2py/tests/src/regression/f77fixedform.f95",
+				".venv/lib/python3.14/site-packages/numpy/f2py/tests/src/regression/f90continuation.f90",
+				".venv/lib/python3.14/site-packages/numpy/f2py/tests/src/regression/incfile.f90",
+				".venv/lib/python3.14/site-packages/numpy/f2py/tests/src/regression/inout.f90",
+				".venv/lib/python3.14/site-packages/numpy/f2py/tests/src/regression/lower_f2py_fortran.f90",
+				".venv/lib/python3.14/site-packages/numpy/f2py/tests/src/regression/mod_derived_types.f90",
+				".venv/lib/python3.14/site-packages/numpy/f2py/tests/src/return_character/foo77.f",
+				".venv/lib/python3.14/site-packages/numpy/f2py/tests/src/return_character/foo90.f90",
+				".venv/lib/python3.14/site-packages/numpy/f2py/tests/src/return_complex/foo77.f",
+				".venv/lib/python3.14/site-packages/numpy/f2py/tests/src/return_complex/foo90.f90",
+				".venv/lib/python3.14/site-packages/numpy/f2py/tests/src/return_integer/foo77.f",
+				".venv/lib/python3.14/site-packages/numpy/f2py/tests/src/return_integer/foo90.f90",
+				".venv/lib/python3.14/site-packages/numpy/f2py/tests/src/return_logical/foo77.f",
+				".venv/lib/python3.14/site-packages/numpy/f2py/tests/src/return_logical/foo90.f90",
+				".venv/lib/python3.14/site-packages/numpy/f2py/tests/src/return_real/foo77.f",
+				".venv/lib/python3.14/site-packages/numpy/f2py/tests/src/return_real/foo90.f90",
+				".venv/lib/python3.14/site-packages/numpy/f2py/tests/src/routines/funcfortranname.f",
+				".venv/lib/python3.14/site-packages/numpy/f2py/tests/src/routines/subrout.f",
+				".venv/lib/python3.14/site-packages/numpy/f2py/tests/src/size/foo.f90",
+				".venv/lib/python3.14/site-packages/numpy/f2py/tests/src/string/char.f90",
+				".venv/lib/python3.14/site-packages/numpy/f2py/tests/src/string/fixed_string.f90",
+				".venv/lib/python3.14/site-packages/numpy/f2py/tests/src/string/gh24008.f",
+				".venv/lib/python3.14/site-packages/numpy/f2py/tests/src/string/gh24662.f90",
+				".venv/lib/python3.14/site-packages/numpy/f2py/tests/src/string/gh25286.f90",
+				".venv/lib/python3.14/site-packages/numpy/f2py/tests/src/string/scalar_string.f90",
+				".venv/lib/python3.14/site-packages/numpy/f2py/tests/src/string/string.f",
+				".venv/lib/python3.14/site-packages/numpy/f2py/tests/src/value_attrspec/gh21665.f90",
+				".venv/lib/python3.14/site-packages/numpy/random/lib/libnpyrandom.a",
+				".venv/lib/python3.14/site-packages/orjson/orjson.cpython-314-darwin.so",
+				".venv/lib/python3.14/site-packages/scipy/.dylibs/libgcc_s.1.1.dylib",
+				".venv/lib/python3.14/site-packages/scipy/.dylibs/libgfortran.5.dylib",
+				".venv/lib/python3.14/site-packages/scipy/.dylibs/libquadmath.0.dylib",
+			);
+			target = 129423562EF24924007D6531 /* mod2 */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		129423592EF24924007D6531 /* mod2 */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				1204A4C32F1E509200FA8636 /* Exceptions for "mod2" folder in "mod2" target */,
+			);
 			path = mod2;
 			sourceTree = "<group>";
 		};
@@ -41,10 +153,18 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		1204A4C42F1E533500FA8636 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 		1294234E2EF24924007D6531 = {
 			isa = PBXGroup;
 			children = (
 				129423592EF24924007D6531 /* mod2 */,
+				1204A4C42F1E533500FA8636 /* Frameworks */,
 				129423582EF24924007D6531 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -89,7 +209,7 @@
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
-				LastUpgradeCheck = 2610;
+				LastUpgradeCheck = 2620;
 				TargetAttributes = {
 					129423562EF24924007D6531 = {
 						CreatedOnToolsVersion = 26.1.1;
@@ -160,6 +280,7 @@
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				COPY_PHASE_STRIP = NO;
+				DEAD_CODE_STRIPPING = YES;
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				DEVELOPMENT_TEAM = CUX832QWMG;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
@@ -185,6 +306,7 @@
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = macosx;
+				STRING_CATALOG_GENERATE_SYMBOLS = YES;
 			};
 			name = Debug;
 		};
@@ -222,6 +344,7 @@
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				COPY_PHASE_STRIP = NO;
+				DEAD_CODE_STRIPPING = YES;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				DEVELOPMENT_TEAM = CUX832QWMG;
 				ENABLE_NS_ASSERTIONS = NO;
@@ -240,6 +363,7 @@
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
 				SDKROOT = macosx;
+				STRING_CATALOG_GENERATE_SYMBOLS = YES;
 			};
 			name = Release;
 		};
@@ -247,6 +371,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = CUX832QWMG;
 				ENABLE_HARDENED_RUNTIME = YES;
 				LIBRARY_SEARCH_PATHS = (
@@ -254,6 +379,7 @@
 					"$(PROJECT_DIR)/mod2/.venv/lib/python3.14/site-packages/numpy/random/lib",
 					"$(PROJECT_DIR)/mod2/.venv/lib/python3.14/site-packages/numpy/_core/lib",
 					"$(PROJECT_DIR)/mod2/.venv/lib/python3.14/site-packages/scipy/.dylibs",
+					"$(PROJECT_DIR)/mod2/.venv/lib/python3.14/site-packages/orjson",
 				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
@@ -263,6 +389,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = CUX832QWMG;
 				ENABLE_HARDENED_RUNTIME = YES;
 				LIBRARY_SEARCH_PATHS = (
@@ -270,6 +397,7 @@
 					"$(PROJECT_DIR)/mod2/.venv/lib/python3.14/site-packages/numpy/random/lib",
 					"$(PROJECT_DIR)/mod2/.venv/lib/python3.14/site-packages/numpy/_core/lib",
 					"$(PROJECT_DIR)/mod2/.venv/lib/python3.14/site-packages/scipy/.dylibs",
+					"$(PROJECT_DIR)/mod2/.venv/lib/python3.14/site-packages/orjson",
 				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
